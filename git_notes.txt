@@ -1,0 +1,17 @@
+# will initialize a git repository
+git init
+
+# will add a file to the staging area
+git add <file>
+
+# will commit the file to git
+git commit -m 'MESSAGE'
+
+# will check the status of the staging area
+git status
+
+# will view the contents of the master branch
+git ll
+
+# will view the specific additions and revisions in the master branch
+git la
