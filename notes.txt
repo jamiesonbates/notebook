@@ -1,0 +1,357 @@
+ll
+rm fish_notes.backup
+rm fish_notes.bacup
+rm fish_note.backup fish_notes.txt sorted_notes.txt 
+pwd
+cd ~/Projects/week01/notebook/
+/
+..
+javascripting
+javascripting verify accessing-array-values.js 
+atom accessing-array-values.js
+touch accessing-array-values.js
+javascripting verify array-filtering.js 
+atom array-filtering.js 
+touch array-filtering.js
+javascripting verify arrays.js
+atom arrays.js
+touch arrays.js
+touch arrays.hs
+javascripting verify for-loop.js 
+open for-loop.js 
+touch for-loop.js
+javascripting verify if-statement.js
+open if-statement.js 
+touch if-statement.js
+javascripting verify number-to-string.js 
+open number-to-string.js 
+touch number-to-string.js
+javascripting verify rounding-numbers.js 
+open rounding-numbers.js 
+touch rounding-numbers.js
+javascripting verify numbers.js
+open numbers.js
+touch numbers.js
+javascripting verify revising-strings.js
+open revising-strings.js
+touch revising-strings.js
+javascripting verify string-length.js
+open string-length.js
+touch string-length.js
+javascripting verify strings.js
+open strings.js
+touch strings.js
+javascripting verify variables.js
+open variables.js
+touch variables.js
+javascripting verify introduction.js
+open introduction.js
+touch introduction.js
+cd javascripting
+mkdir javascripting
+rm rounding-numbers.js
+touch rounding-numbers.hs
+npm install -global javascripting
+open play.html
+open
+play.html
+cd Desktop/
+node
+node 
+echo "Jeremy Bowers" | md5 | grep -qif /dev/stdin encoded; and echo CORRECT\! GREAT WORK, GUMSHOE.; or echo SORRY, TRY AGAIN.
+echo "Jeremy Bowerse" | md5 | grep -qif /dev/stdin encoded; and echo CORRECT\! GREAT WORK, GUMSHOE.; or echo SORRY, TRY AGAIN.
+less solution
+cd mystery
+less crimescene | grep 'CLUE'
+less Museum_of_Bash_History | grep 'Bowers'
+less Terminal_City_Library | grep 'Bowers'
+ll 
+less Delta_SkyMiles | grep 'Bowers'
+less AAdvantage | grep 'Bowers'
+less AAA | grep 'Bowers'
+cd memberships
+less interview-290346
+cd interviews
+head -n 287 Senders_Court
+cd streets
+less people | grep 'Mike Bostock'
+less interview-1767435
+head -n 145 Claybourne_Street
+less people | grep 'Aron Pilhofer'
+less interview-904020
+head -n 224 Andover_Road 
+less people | grep 'Jacqui Maher'
+less interview-5455315
+head -n 98 Trapelo_Street 
+less people | grep 'Erika Owens'
+less interview-9620713
+interviews
+head -n 284 Dunstable_Road
+less people | grep 'Jeremy Bowers'
+less interview-29741223
+head -n 275 Plainfield_Street
+head -n 275 Plainfield_Street 
+head -n 275 Plainfield Street 
+less people | grep 'Joe Germuska'
+less people | grep 'Joe Germuka'
+less vehicles | grep 'L337' -A 5
+less vehicles | grep 'L337'
+less vehicles
+less interview-699607
+,,
+head -n 179 Buckingham_Place  l
+cat Buckingham_Place 
+less interviews
+cat interviews
+head -n 179 Buckingham_Place | tail -n 1
+less people | grep 'Annabel'
+less crimescene
+man head
+head -n 179 interviews | tail -n 1
+head -n 179 | tail -n 1
+less g 179
+man less
+less interviews -H
+man grep
+cd interviews 
+less interview-944493
+less people
+less 'Buckingham_Palace'
+less people | grep 'Annabel' 
+less AAA AAdvantage = | grep 'Annabel'
+less AAA
+lessAAA
+less AA
+less AAA | grep 'Annabel'
+less AAA AAdvantage Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library | grep 'Annabel'
+less vehicles | grep 'Annabel' -A 5
+cat instructions
+less README.md
+rm evidence
+cat crimescene | grep 'CLUE'
+cat streets/ | grep 'Haley_Street'
+cat streets | grep 'Haley_Street'
+cats streets | grep 'Haley_Street'
+less streets | grep 'Haley_Street'
+grep 'Haley_Street'
+cat 'Haley_Street'
+cat crimescene
+cd evidence
+less people | grep 'Church'
+cd people
+less 'Haley Street'
+cat 'Haley Street'
+cat 'Haley'
+grep 'Haley'
+cd steets
+less streets | grep 'Haley'
+;;
+less streets | grep 'Haley Street'
+cd interview
+less people | grep 'Fuglsang' -A 5
+cd clmystery
+less crimscene
+less crimescene 'CLUE'
+less people | grep 'Annabel' -A 5
+rm vehicle.evidence
+less vehicles | grep 'Annabel' -A 5 | history < vehicle.evidence
+less vehicles | grep 'Annabel' -A 5 | touch < vehicle.evidence
+vehicle.evidence
+cd vehicle.evidence
+less vehicles | grep 'Annabel' -A 5 < vehicle.evidence
+touch vehicle.evidence
+cd evidence/
+mkdir evidence
+less vehicles | grep 'Annabel'
+cat interviews/ | grep 'Annabel'
+cat /interviews | grep 'Annabels'
+cat vehicles
+less vehicles 
+less Terminal_City_Library | grep 'Annabel'
+
+less Museum_of_Bash_History | grep 'Annabel'
+less Fitness_Galaxy | grep 'Annabel'
+less Delta_SkyMiles | grep 'Annabel'
+less Delta_Skymiles | grep 'Annabel'
+less memberships | grep 'Annabel'
+less Costco | grep 'Costco'
+less AAdvantage | grep 'Annabel'
+less memberships
+cd mystery/
+cat crimescene | grep 'tall'
+cat crimescene | grep 'male'
+cat crimescene | grep 'New Zealand'
+cat crimescene | grep 'Delta'
+cat crimescene | grep 'Bash'
+cat crimescene | grep 'AAA'
+cat crimescene | grep 'Annabel'
+less instructions
+cd clmystery/
+git clone https://github.com/jamiesonbates/clmystery.git
+cp fish_notes.txt fish_notes.backup
+mv notes.txt fish_notes.txt
+less sorted_notes.txt
+cat notes.txt | sort > sorted_notes.txt
+history | sort
+history | sory
+man ls sort
+cat notes.txt | sort | grep 'brew'
+cat notes.txt | sort | grep brew
+cat notes.txt | sort
+cat notes.txt
+cat notes.text
+rm notes.text
+history >> notes.txt
+history >> notes.text
+history > notes.txt
+less notes.txt
+history
+history 
+touch notes.txt
+jjhasdfjh
+ddkdkdk
+asdlfk;jasdf
+asdf;lkasdjf;
+rm notes.txt
+ls notes.txt
+cd notebook/
+mkdir notebook
+cd ~/Projects/week01/
+which which
+ll /usr/local/bin/
+which git
+echo $PATH
+~
+cd Documents/
+/u/sbin/postkick/
+cd /usr/sbin/
+cd usr/sbin/
+usr/sbin/
+cd /usr/s
+cd /usr/
+cd /sbin/umount/
+/sbin/nfsiod
+/sbin/
+//
+/A/Slack.app/Contents
+l
+/Applications/Slack.app/
+cd /Applications
+~/Applications/
+.
+cc /bin
+~/Documents/
+cd usr/local
+cd /
+cd /Library/Ruby/
+cd /Library/
+cd /Applications/Time\ Machine.app/
+cd ~/Applications/
+cd ~_captiveagent
+cd Galvanize
+cd Galvanize\ 
+cd ~/Desktop/
+cd
+cd ~/Downloads/
+cd ..
+pw
+cd ~
+cd / 
+tree -L 2 ~
+tree -L 1 ~ 
+tree ~
+tree ~ 
+brew install tree
+echo ~
+echo .
+echo -
+~ echo
+whoami
+open .
+open ,
+ls -R
+ls -Sf
+man ls
+ls -d
+ls -a
+ls -f
+ls -Fa
+ls -F
+ls -Slhr
+ls -lhr
+ls -lS
+ls -S
+ls -r
+man s
+ll -S
+man ls -
+ll -F
+ll -A
+ll -W
+ls -W
+ls -mn
+ls -m -n
+ls -n
+ls -m
+ls --D
+ls -D
+ls -G
+ls -h
+ls -H
+ls man
+ls -p
+ls -@
+ls -g
+ls g 
+ls g/
+ls -hal
+cd /Users
+ls -l
+ls -1
+ls
+cd .
+groups
+which fish
+open http://jamiesonbates.surge.sh
+surge 
+git commit -m 'Add a domain name'
+git add CNAME
+touch CNAME
+git commit -m 'Add a tiny web page'
+git add index.html
+open index.html
+atom . 
+touch index.html
+git init  
+cd jamiesonbates.surge.sh/
+mkdir jamiesonbates.surge.sh
+mkdir -p ~/Projects/week01
+surge -V
+npm install -g surge
+rm ~/Desktop/test.js 
+node ~/Desktop/test.js 
+atom ~/Desktop/test.js
+node -v
+brew install node
+curl -fsSL https://git.io/vXOvh | sh
+cat ~/.gitconfig
+git config --global user.email 'jamiesonbates@gmail.com'
+git config --global user.name 'Jamieson Bates'
+brew doctor
+git --version
+brew install git
+which echo
+echo $EDITOR
+atom ~/.config/fish/config.fish
+atom ~/Downloads/
+atom ~ /Downloads/
+~ /Downloads/
+brew info fish
+brew in
+fish_update_completions
+curl -fsSL https://git.io/vXOeC | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+uname
